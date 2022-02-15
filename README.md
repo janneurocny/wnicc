@@ -55,4 +55,5 @@ Pre získanie popisu sieťovej karty postupovať podľa návodu.
 4. Zadať príkaz `wmic nic get Name, Description`
 
 ## Ukážka
+Ukážka vo videu po kliknutí na obrázok.  
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ql_xxCJ_elo/0.jpg)](https://www.youtube.com/watch?v=Ql_xxCJ_elo)
