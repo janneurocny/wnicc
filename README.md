@@ -12,7 +12,7 @@ Súbor je možné spustiť manuálne s užívateľom, ktorý má práva na úpra
 5. Prejsť do *C:\Scripts*
 6. Vpravo dole zmeniť *Textové dokumenty (*.txt)* na *Všetky súbory* a otvoriť *wnicc.bat*
 7. Nastaviť premennú *nicDescription*  
-`set nicDescription='*Popis sietovej karty*'` \
+`set nicDescription='Popis sietovej karty'` \
 **TIP:** [Ako zistiť popis sieťovej karty](#popis-sietovej-karty)
 8. Uložiť - CTRL + S
 
