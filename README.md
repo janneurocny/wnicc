@@ -1,7 +1,10 @@
 # Windows NIC Configurator
+
+## :warning: Používanie na vlastné riziko! :warning:
+
 Dávkový súbor určený na vyresetovanie konfigurácie a opätovné zapnutie sieťového adaptéra. Vhodné pre počítače, kde prebieha výučba konfigurácie siete. Dávkový súbor zabezpečí zapnutie sieťového adaptéru a jeho nastavenie na získanie IP adresy cez DHCP.
 
-Súbor je možné spustiť manuálne s užívateľom, ktorý má práva na úpravu sieťového adaptéra, prípadne ako správca, prípadne použiť automatické spustenie pomocou Plánovača úloh pri spustení počítača.
+Súbor je možné spustiť manuálne užívateľom, ktorý má práva na úpravu sieťového adaptéra alebo oprávnenia správcu, prípadne použiť automatické spustenie pomocou Plánovača úloh pri spustení počítača.
 
 ## Príprava
 
@@ -26,8 +29,8 @@ Súbor je možné spustiť manuálne s užívateľom, ktorý má práva na úpra
 6. Vyplniť  
 \
 **General**  
-Name: Network Configurator  
-Vybrač *Run whether user is logged on or not*  
+Name: *Network Configurator*  
+Vybrať *Run whether user is logged on or not*  
 Zaškrtnúť *Run with highest privileges*  
 \
 **Trigers**  
